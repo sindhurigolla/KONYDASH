@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "41dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfb7def28e1d46e38a5441fcf86fa924",
+    "_top_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "RadioButtonGroup1",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 2
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "db9af2244f0048548651e6687385fdbf",
+    "masterdata": [
+        [
+            "rbg1",
+            "Male"
+        ],
+        [
+            "rbg2",
+            "Female"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "paddinginpixel": false,
+    "parent": "patientMandatorySection",
+    "pf": "frmAdmitForm",
+    "selectedkey": "rbg2",
+    "selectedkeyvalue": [
+        "rbg2",
+        "Female"
+    ],
+    "size": 18,
+    "tabpaneId": "admitFormTabSection",
+    "tickedimage": "radioselected1.png",
+    "untickedimage": "radiounselected1.png",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 2
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

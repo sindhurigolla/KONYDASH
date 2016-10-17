@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc6972cdb183477591110107f3612de8",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CheckBoxGroup05d64f6c0200140",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "f56978d50c9541c6acb2f6e3ea5c73fa",
+    "masterdata": [
+        [
+            "cbg1",
+            "Change Password"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "parent": "flxScrollBodyContainer",
+    "pf": "frmEditProfile",
+    "selectedkey": null,
+    "selectedkeys": [
+        "cbg1"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        [
+            "cbg1",
+            "Change Password"
+        ]
+    ],
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

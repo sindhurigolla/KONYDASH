@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s428fe2912784ef588fac40d12e4dfdd",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopylabelPsychAdmission0392b5174400544",
+        "CopylabelPsychEmail07e6841e1b77041",
+        "CopylabelPsychText06d10c5d9fd4247",
+        "CopylabelPsyncAppNotification0b52bb593fff047"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyflxPsychAdmissionHeaderContainer0a2fc92c8ef4047",
+    "info": null,
+    "isvisible": true,
+    "kuid": "eecf30703d934870a7ff86f0b2dfe8be",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyflxPsychAdmissionContainer0def2ccf1489349",
+    "pf": "frmConfigurationAlerts",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabpaneId": "TabConfigurationAdmissionAlerts",
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

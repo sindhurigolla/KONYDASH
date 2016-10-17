@@ -1,0 +1,33 @@
+{
+    "AS_Image_4d7c1e817a0041058b6cc6c0a3cbb31d": {
+        "id": "AS_Image_4d7c1e817a0041058b6cc6c0a3cbb31d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4d052e83ef0b47678eb3c35c72c7d4a0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___33eea1bf76f347c088f3dceed5e13d0f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hamburger",
+            "display": "hamburger",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

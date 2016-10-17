@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s16a23613a4c4a67a4324786318bedf3",
+    "_top_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "selectFormTypeListId",
+        "selectBorder1",
+        "tabActiveIcon2"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "selectFormTypeDropDown",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a5de61ed88ea488ebc032df5d84eb6d8",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexAdmitFormContainer",
+    "pf": "frmAdmitForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

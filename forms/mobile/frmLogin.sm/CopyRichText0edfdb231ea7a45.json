@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "s76ea63c3c4e4166832c038a42f877a4",
+    "_text_": "Note: By clicking “Sign In” above, I accept the following:\n\nYou are about to access an HCA - Information Technology & Services, Inc. (IT&S) approved computer system. This system is to be used only by authorized users of IT&S, its customers and affiliates. As a user of this system, you have no expectation of privacy rights or ownership in anything you may create, store, send or receive on this system. By proceeding, your use of this system\n1) constitutes your agreement that IT&S and/or your company may consent to law enforcement officials and agencies accessing information regarding your use of this network\n2) constitutes your consent to monitoring, retrieval, and disclosure of any information within this system for all purposes deemed appropriate by IT&S, including enforcement of rules concerning unacceptable uses of this system\n3) constitutes your agreement to comply with all privacy, security and other policies and procedures of IT&S and your company\nIf you have any questions about what constitutes an acceptable use by you, please consult the written policies provided by IT&S and your company.",
+    "_top_": {
+        "type": "string",
+        "value": "115%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText0edfdb231ea7a45",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f4cb66e087e74ae3ad2bc28ca6ebc567",
+    "name": "kony.ui.RichText",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

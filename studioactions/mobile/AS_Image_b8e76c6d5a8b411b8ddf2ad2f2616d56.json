@@ -1,0 +1,32 @@
+{
+    "AS_Image_b8e76c6d5a8b411b8ddf2ad2f2616d56": {
+        "id": "AS_Image_b8e76c6d5a8b411b8ddf2ad2f2616d56",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "CopyfrmProfile05d30939d2dee43",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2af45154f3764e6fb104de6118dc5c91"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchStart_de9ed32848b44561bffe65266993db0c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hamburger",
+            "display": "hamburger",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

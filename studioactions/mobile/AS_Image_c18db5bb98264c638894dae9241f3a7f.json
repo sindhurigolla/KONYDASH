@@ -1,0 +1,33 @@
+{
+    "AS_Image_c18db5bb98264c638894dae9241f3a7f": {
+        "id": "AS_Image_c18db5bb98264c638894dae9241f3a7f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmEditProfile",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f237bf94cbe40eca705b8771c4cc80c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0f5d04c74c6c483999730d2714ef0ec9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "openMenu",
+            "display": "openMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

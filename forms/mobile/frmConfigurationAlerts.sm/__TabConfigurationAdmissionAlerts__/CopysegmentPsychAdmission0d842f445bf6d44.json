@@ -1,0 +1,282 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bed Unavilable"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bed Unavilable"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bed Unavilable Pending discharges"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Physician Accept"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SAC Auto Accept"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Physician Denied"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bed Assigend"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient Arrived"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient Notshow"
+            }
+        },
+        {
+            "imgAppNotificaion": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgEmail": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "imgText": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient Discharged"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "CopysegmentPsychAdmission0d842f445bf6d44",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "119133c3499d4ba694120eba829523dc",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "CopyflxPsychAdmissionContainer0def2ccf1489349",
+    "pf": "frmConfigurationAlerts",
+    "retainselection": false,
+    "rowTemplateId": "9a3b6b33310b48c39e24cd3de4bf4c34",
+    "rowcounter": 9,
+    "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
+    "rowskin": "sb8a1606d29a408fae0767dae0cc6922",
+    "rowtemplate": "flxTemplateRowConfigurationAlertsContainer",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "tabpaneId": "TabConfigurationAdmissionAlerts",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxTemplateRowConfigurationAlertsContainer": "flxTemplateRowConfigurationAlertsContainer",
+        "imgAppNotificaion": "imgAppNotificaion",
+        "imgEmail": "imgEmail",
+        "imgText": "imgText",
+        "labelTemplateRow": "labelTemplateRow"
+    },
+    "zindex": 1
+}

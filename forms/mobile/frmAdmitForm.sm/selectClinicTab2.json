@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s16a23613a4c4a67a4324786318bedf3",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "formTypeImgID",
+        "tabList2"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "selectClinicTab2",
+    "ide_onTouchStart": "AS_FlexContainer_d197f2480f534774aaf67307793bb7b7",
+    "info": null,
+    "isvisible": true,
+    "kuid": "1068d2ebb45943f29ab3c12dfa163537",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "admitTabSectionMain",
+    "pf": "frmAdmitForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,128 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image081203e63fbf643": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label0c981bd3b128e47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test Cleveland Clinic - Cleveland (Clinic)"
+            }
+        },
+        {
+            "Image081203e63fbf643": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label0c981bd3b128e47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Phaneendra ED (Clinic)"
+            }
+        },
+        {
+            "Image081203e63fbf643": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "Label0c981bd3b128e47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Phaneendra UG (Clinic)"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0002ee999218345",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "65e493119c614207a17c33576c6fe018",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContainerInfo",
+    "pf": "frmEditProfile",
+    "retainselection": false,
+    "rowTemplateId": "fcb94763bf22401aa6f5005a3d15eb0c",
+    "rowcounter": 2,
+    "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
+    "rowskin": "sb8a1606d29a408fae0767dae0cc6922",
+    "rowtemplate": "CopyFlexContainer075c9ac293fb748",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer075c9ac293fb748": "CopyFlexContainer075c9ac293fb748",
+        "Image081203e63fbf643": "Image081203e63fbf643",
+        "Label0c981bd3b128e47": "Label0c981bd3b128e47"
+    },
+    "zindex": 1
+}

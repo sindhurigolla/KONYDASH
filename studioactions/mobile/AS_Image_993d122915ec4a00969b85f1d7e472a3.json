@@ -1,0 +1,34 @@
+{
+    "AS_Image_993d122915ec4a00969b85f1d7e472a3": {
+        "id": "AS_Image_993d122915ec4a00969b85f1d7e472a3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAdmission",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fae33958ebb54670bfd88b2d1e05ab96"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a20eb27df8374dd5a3a8c1f0a30e605b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashBoard",
+            "formKUID": "4d052e83ef0b47678eb3c35c72c7d4a0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

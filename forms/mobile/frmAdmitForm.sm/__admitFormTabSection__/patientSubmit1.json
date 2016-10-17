@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1d835ed54a149e984ba680fea290b4c",
+    "_text_": "Submit",
+    "_top_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8059f7ed10e44c591f426d5654732f7",
+    "id": "patientSubmit1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "269a210cae1f4ed4bdc6ae5e86d2d62e",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "patientMandatorySection",
+    "pf": "frmAdmitForm",
+    "tabpaneId": "admitFormTabSection",
+    "wType": "Button",
+    "zindex": 1
+}

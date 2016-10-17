@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s92d897038d84462907bda7667af865e",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "chkRemember",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "groupCells": true,
+            "viewType": 1
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "fe1f96a8cc1b468f97dc249dcf4d64a7",
+    "masterdata": [
+        [
+            "chkRememebr",
+            "Remember Me"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "paddinginpixel": false,
+    "parent": "horFlexC1",
+    "pf": "frmLogin",
+    "selectedkey": null,
+    "selectedkeys": [
+        "chkRememebr"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        [
+            "chkRememebr",
+            "Remember Me"
+        ]
+    ],
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

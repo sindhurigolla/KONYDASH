@@ -1,0 +1,87 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s09a11d0700e4bb295a9dcc75f243145",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmAdmitForm",
+        "platform": "android",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "selecticon.png",
+    "groupcells": false,
+    "id": "selectFormTypeListId",
+    "ide_onSelection": "AS_ListBox_9345a658d386424baa49f10cd05e8cbf",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ddcd956ff5b748bea0ccea6e8970010e",
+    "masterdata": [
+        [
+            "lb1",
+            "select form type here"
+        ],
+        [
+            "lb2",
+            "HCL"
+        ],
+        [
+            "lb3",
+            "GOIO"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "selectFormTypeDropDown",
+    "pf": "frmAdmitForm",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "select form type here"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

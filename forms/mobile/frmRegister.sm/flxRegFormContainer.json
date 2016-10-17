@@ -1,0 +1,75 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_skin_": "s79e2fd6a3634f849dcc2ede57bb28bf",
+    "_top_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "btnBackToLogin",
+        "Label08f659d173fd844",
+        "FlexContainer058cffe21941742",
+        "TextField0bb21819a195246",
+        "CopyTextField048c59dc2aafa41",
+        "CopyTextField05d06947a43e84e",
+        "CopyTextField070ff7f19aa764e",
+        "Label08d494911138c43",
+        "RadioButtonGroup01045c989661047",
+        "FlexContainer08fbc3db241e844",
+        "CopyTextField098426de55b3447",
+        "CheckBoxGroup0de39f4ba45da49",
+        "Button0619542a7f1d944",
+        "FlexContainer0d9c624b17e764b",
+        "RichText0521ebe0f144644"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxRegFormContainer",
+    "info": null,
+    "isvisible": true,
+    "kuid": "89f9a09278a14fc790cf0088b8dc3de0",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxScrollContainer",
+    "pf": "frmRegister",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

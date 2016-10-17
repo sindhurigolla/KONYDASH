@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sacf33f162fa43f1aa75e98f8f94d5e1",
+    "_text_": "* Only Mandatory",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8059f7ed10e44c591f426d5654732f7",
+    "id": "btnMandatory",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a2b1dbfe0a5842dea84bd16be4815d2d",
+    "name": "kony.ui.Button",
+    "parent": "innerTabRow",
+    "pf": "frmAdmitForm",
+    "tabpaneId": "admitFormTabSection",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,138 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTabPane",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_activeTabsBackUp": [
+        0
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_top_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "activeskin": "sb00ff938d3f4d409a514b1e73eecd9b",
+    "activetab": 0,
+    "activetabs": [
+        0
+    ],
+    "activetabspw": [
+        0
+    ],
+    "allboxes": [],
+    "android": {
+        "viewType": "tabview"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "TestpatientTab",
+        "TestDiagnosTab",
+        "TestRecommendTab"
+    ],
+    "collapsedimage": "",
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmAdmitForm",
+        "platform": "android",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "disabledSkins": {},
+    "expandedimage": "",
+    "id": "admitFormTabSection",
+    "imageposition": "right",
+    "inactiveskin": "s54c47e55bae4de2a758b4510c0d7bd9",
+    "info": null,
+    "iphone": {
+        "psp": {},
+        "viewType": "tabview"
+    },
+    "isvisible": true,
+    "kuid": "8705226d4a734d899952c2ee89b84f9d",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.TabPane",
+    "paddinginpixel": false,
+    "parent": "flexAdmitFormContainer",
+    "pf": "frmAdmitForm",
+    "screenlevelwidget": false,
+    "tabnamealignment": "left",
+    "toggletabs": false,
+    "viewconfig": {
+        "collapsibleViewConfig": {
+            "collapsedImage": "",
+            "collapsedimage": "",
+            "expandedImage": "",
+            "expandedimage": "",
+            "imagePosition": "right",
+            "imageposition": "right",
+            "tabNameAlignment": "left",
+            "tabnamealignment": "left",
+            "toggleTabs": false,
+            "toggletabs": false
+        },
+        "collapsibleviewconfig": {
+            "collapsedImage": "",
+            "collapsedimage": "",
+            "expandedImage": "",
+            "expandedimage": "",
+            "imagePosition": "right",
+            "imageposition": "right",
+            "tabNameAlignment": "left",
+            "tabnamealignment": "left",
+            "toggleTabs": false,
+            "toggletabs": false
+        },
+        "pageViewConfig": {
+            "needPageIndicator": true,
+            "pageOffDotImage": "",
+            "pageOnDotImage": ""
+        },
+        "panoramaViewConfig": {
+            "panoramaImage": "",
+            "panoramaTitle": "",
+            "panoramaTitleImage": ""
+        },
+        "tabViewConfig": {
+            "headerPosition": "top",
+            "image1": "tableftarrow.png",
+            "image2": "tabrightarrow.png"
+        }
+    },
+    "viewtype": "tabview",
+    "vizProps": {
+        "hide": true
+    },
+    "wType": "TabPane",
+    "zindex": 1
+}

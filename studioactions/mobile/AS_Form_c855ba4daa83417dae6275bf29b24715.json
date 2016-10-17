@@ -1,0 +1,25 @@
+{
+    "AS_Form_c855ba4daa83417dae6275bf29b24715": {
+        "id": "AS_Form_c855ba4daa83417dae6275bf29b24715",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmDash0c519322ed4f144",
+            "type": "forms",
+            "platform": null,
+            "KUID": "78384c6991c14af38409320ab3eda3f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_postShow_4979a8c401144a82b8b132aa5bc21363",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loadDashboard",
+            "display": "loadDashboard",
+            "inputparams": [],
+            "callbackType": null
+        }]
+    }
+}

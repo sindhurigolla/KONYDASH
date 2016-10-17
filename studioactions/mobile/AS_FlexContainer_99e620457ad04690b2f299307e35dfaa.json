@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_99e620457ad04690b2f299307e35dfaa": {
+        "id": "AS_FlexContainer_99e620457ad04690b2f299307e35dfaa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "templatedashbaord",
+            "type": "templates",
+            "platform": "",
+            "KUID": "f1bb6514419f42b599d484dc4ae9c331"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___b2fbcf453d49418d96e9bed95e134ca4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAdmission",
+            "formKUID": "fae33958ebb54670bfd88b2d1e05ab96",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

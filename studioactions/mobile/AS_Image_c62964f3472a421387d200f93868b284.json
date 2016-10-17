@@ -1,0 +1,33 @@
+{
+    "AS_Image_c62964f3472a421387d200f93868b284": {
+        "id": "AS_Image_c62964f3472a421387d200f93868b284",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDischargeNotiifcattions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "668c7fae5a8b449ba7b1e583f7bb4355"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4b3f7fdcc7914904a9ca6e50e11b9dc2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hamburger",
+            "display": "hamburger",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

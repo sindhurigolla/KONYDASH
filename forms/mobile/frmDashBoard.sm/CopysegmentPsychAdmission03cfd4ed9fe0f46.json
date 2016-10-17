@@ -1,0 +1,446 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        },
+        {
+            "Button0a587f8d8f73640": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton05504a0261c484e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton078ad7060a5a346": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0e8c78dc93dd642": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopyButton0f755cc8e100046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "CopylabelTemplateRow033372a48ed8f4e": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "CopylabelTemplateRow0c7021de4c85048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelTemplateRow": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "CopysegmentPsychAdmission03cfd4ed9fe0f46",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "547c41ef4ea5429bafb16b37407c0f08",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxPsychAdmissionContainer",
+    "pf": "frmDashBoard",
+    "retainselection": false,
+    "rowTemplateId": "f1bb6514419f42b599d484dc4ae9c331",
+    "rowcounter": 9,
+    "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
+    "rowskin": "sb8a1606d29a408fae0767dae0cc6922",
+    "rowtemplate": "CopyflxTemplateRowConfigurationAlertsContainer04486837a31b941",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Button0a587f8d8f73640": "Button0a587f8d8f73640",
+        "CopyButton05504a0261c484e": "CopyButton05504a0261c484e",
+        "CopyButton078ad7060a5a346": "CopyButton078ad7060a5a346",
+        "CopyButton0e8c78dc93dd642": "CopyButton0e8c78dc93dd642",
+        "CopyButton0f755cc8e100046": "CopyButton0f755cc8e100046",
+        "CopyflxTemplateRowConfigurationAlertsContainer04486837a31b941": "CopyflxTemplateRowConfigurationAlertsContainer04486837a31b941",
+        "CopylabelTemplateRow033372a48ed8f4e": "CopylabelTemplateRow033372a48ed8f4e",
+        "CopylabelTemplateRow0c7021de4c85048": "CopylabelTemplateRow0c7021de4c85048",
+        "FlexContainer0179dba865f3449": "FlexContainer0179dba865f3449",
+        "labelTemplateRow": "labelTemplateRow"
+    },
+    "zindex": 1
+}

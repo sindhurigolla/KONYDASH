@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_skin_": "s8efc9a32220483c988f9c05f8340c0f",
+    "_text_": "Register",
+    "_top_": {
+        "type": "string",
+        "value": "830dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8059f7ed10e44c591f426d5654732f7",
+    "id": "Button0619542a7f1d944",
+    "info": null,
+    "isvisible": true,
+    "kuid": "1509e2604712481ca08f797f6b644b81",
+    "name": "kony.ui.Button",
+    "parent": "flxRegFormContainer",
+    "pf": "frmRegister",
+    "wType": "Button",
+    "zindex": 1
+}

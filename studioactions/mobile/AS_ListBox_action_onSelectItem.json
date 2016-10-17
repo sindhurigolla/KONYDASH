@@ -1,0 +1,28 @@
+{
+    "AS_ListBox_9345a658d386424baa49f10cd05e8cbf": {
+        "id": "AS_ListBox_9345a658d386424baa49f10cd05e8cbf",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_ListBox_action_onSelectItem",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmitForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a61f86b4fb384227b844ba626c644872"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2414d278158149fabf11b64bb9384eec",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showadmitFrom",
+            "display": "showadmitFrom",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

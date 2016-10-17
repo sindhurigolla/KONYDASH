@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
+    "_src_": "activeicon.png",
+    "_top_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmAdmitForm",
+        "platform": "android",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "tabActiveIcon2",
+    "imagescalemode": 0,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "d8700dc7ed12417fb770225ed894d946",
+    "name": "kony.ui.Image2",
+    "parent": "selectFormTypeDropDown",
+    "pf": "frmAdmitForm",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

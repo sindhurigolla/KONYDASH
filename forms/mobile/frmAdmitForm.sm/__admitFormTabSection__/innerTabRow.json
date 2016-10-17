@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "scf302de9d4e41a3a0e2a81f5d63b372",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "btnMandatory",
+        "btnPreferred",
+        "btnAll"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "innerTabRow",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f8b4e55dd9ee41f89766cf336b78bd78",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "TestpatientTab",
+    "pf": "frmAdmitForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabpaneId": "admitFormTabSection",
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

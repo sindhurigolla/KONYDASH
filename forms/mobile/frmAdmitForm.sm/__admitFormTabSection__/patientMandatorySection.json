@@ -1,0 +1,77 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s60066476c5a4d8eb52c0dcae1330e9d",
+    "_top_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": false,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "etFirstName",
+        "etLastName",
+        "RadioButtonGroup1",
+        "DOBCalander",
+        "etAdmittingHospital",
+        "fieldRowSection5",
+        "patientSubmit1"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "patientMandatorySection",
+    "info": null,
+    "isvisible": true,
+    "kuid": "02042a68c2f14b51baa5e92f06c2df94",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "TestpatientTab",
+    "pf": "frmAdmitForm",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabpaneId": "admitFormTabSection",
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

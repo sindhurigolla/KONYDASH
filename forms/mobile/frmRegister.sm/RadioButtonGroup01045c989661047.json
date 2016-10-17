@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_skin_": "s8707ebe2ae94025ab441cb3d5a1192a",
+    "_top_": {
+        "type": "string",
+        "value": "350dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "RadioButtonGroup01045c989661047",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "afeca11cc7bd436c8c0421e33dbef3eb",
+    "masterdata": [
+        [
+            "rbg1",
+            "Hospital"
+        ],
+        [
+            "rbg2",
+            "FSED"
+        ],
+        [
+            "rbg3",
+            "Urgent Care"
+        ],
+        [
+            "Key522",
+            "PCP Office"
+        ],
+        [
+            "Key430",
+            "Other"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "flxRegFormContainer",
+    "pf": "frmRegister",
+    "selectedkey": null,
+    "selectedkeyvalue": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

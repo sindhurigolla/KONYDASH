@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_ee8f55ad02d342f191bf5375fdfed578": {
+        "id": "AS_FlexContainer_ee8f55ad02d342f191bf5375fdfed578",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a90eea6b176044cdae93bf5b236f3a6d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDischargeNotiifcattions",
+            "formKUID": "668c7fae5a8b449ba7b1e583f7bb4355",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

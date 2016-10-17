@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7c88c9f518d42e9b66cd5356877ab93",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "android": {
+        "displayText": false
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s8059f7ed10e44c591f426d5654732f7",
+    "id": "Button0a587f8d8f73640",
+    "info": null,
+    "isvisible": true,
+    "kuid": "477a677242384f989d81ba36f8afb699",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0179dba865f3449",
+    "pf": "templatedashbaord",
+    "wType": "Button"
+}

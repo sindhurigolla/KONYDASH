@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_d595c8f1dd744ea3acf1ae4f3847832a": {
+        "id": "AS_FlexContainer_d595c8f1dd744ea3acf1ae4f3847832a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a3e8202ea2ca42e8876784eeca8a5e65",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashBoard",
+            "formKUID": "4d052e83ef0b47678eb3c35c72c7d4a0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

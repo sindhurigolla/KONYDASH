@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s4001992ea9e4c5fb1f695b6e348c595",
+    "_text_": "Please select Clinic and Form type",
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8059f7ed10e44c591f426d5654732f7",
+    "id": "selectTabsNoteBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5bd45e6bf1ac4d2c96bad12bf5bbed00",
+    "name": "kony.ui.Button",
+    "parent": "flexAdmitFormContainer",
+    "pf": "frmAdmitForm",
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_627d5a4635d74ac6b25de8bcbc9914fa": {
+        "id": "AS_FlexContainer_627d5a4635d74ac6b25de8bcbc9914fa",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_FlexContainer_action_select_clinic",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAdmitForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a61f86b4fb384227b844ba626c644872"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___40d70852c4584a968bdbfb58fcfdf13d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickSelectClinic",
+            "display": "onClickSelectClinic",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

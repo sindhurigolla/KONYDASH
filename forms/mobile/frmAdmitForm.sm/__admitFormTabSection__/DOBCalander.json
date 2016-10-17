@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": "25/8/2016",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Date of Birth(mm-dd-yyyy)",
+    "_skin_": "sd398f865943458490cf1fdd1e475513",
+    "_top_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        25,
+        8,
+        2016,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "day": 25,
+    "daytextalignmentincell": 5,
+    "format": "dd/MM/yyyy",
+    "formatteddate": "25/08/2016",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "DOBCalander",
+    "info": null,
+    "isvisible": true,
+    "kuid": "05b423997d054ad6ad98e2beb21923cb",
+    "minutes": 0,
+    "month": 8,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2016",
+    "parent": "patientMandatorySection",
+    "pf": "frmAdmitForm",
+    "seconds": 0,
+    "selectdate": "//2016",
+    "tabpaneId": "admitFormTabSection",
+    "viewconfig": {
+        "gridConfig": {},
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2016,
+    "zindex": 1
+}

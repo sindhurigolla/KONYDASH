@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "123dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd118ff562e64131ab0ff9e2825bd3fd",
+    "_src_": "dashlogo.png",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "48.15%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmLogin",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgLogo",
+    "imagescalemode": 0,
+    "imagewhenfailed": "pageondot.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "61ee1a9b77074628a37d1296380686ae",
+    "name": "kony.ui.Image2",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "winphone8": {
+        "psp": {
+            "enableCache": false
+        }
+    },
+    "zindex": 1
+}
